@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="First Commit. Open Project.">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="Get started. Draft files.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Divulgacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/draft/Draft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/draft/DraftTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,11 +29,15 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -40,8 +55,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/julio/projects/pi2-s05-g109/pom.xml",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "f12de8d7fa485636d01ca0aaf8b650d0"
   }
 }]]></component>
@@ -56,7 +75,7 @@
       <workItem from="1652312029611" duration="5305000" />
       <workItem from="1652318358418" duration="105000" />
       <workItem from="1652361667588" duration="2044000" />
-      <workItem from="1652363760114" duration="571000" />
+      <workItem from="1652363760114" duration="7649000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Open Project.">
       <created>1652363880789</created>
@@ -79,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652364023939</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add file workspace.xml">
+      <created>1652364443236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652364443236</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Get started. Draft files.">
+      <created>1652381457132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652381457132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit. Open Project." />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit. Open Project." />
+    <MESSAGE value="Add file workspace.xml" />
+    <MESSAGE value="Get started. Draft files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Get started. Draft files." />
   </component>
 </project>
