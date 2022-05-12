@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="Get started. Draft files.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Divulgacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/draft/Draft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/draft/DraftTest.java" afterDir="false" />
+    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="Adding class Divulgacao.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +71,7 @@
       <workItem from="1652312029611" duration="5305000" />
       <workItem from="1652318358418" duration="105000" />
       <workItem from="1652361667588" duration="2044000" />
-      <workItem from="1652363760114" duration="7649000" />
+      <workItem from="1652363760114" duration="9231000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Open Project.">
       <created>1652363880789</created>
@@ -112,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652381457132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding class Divulgacao.">
+      <created>1652381657318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652381657318</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding class Divulgacao.">
+      <created>1652382708433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652382708433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +143,7 @@
     <MESSAGE value="First Commit. Open Project." />
     <MESSAGE value="Add file workspace.xml" />
     <MESSAGE value="Get started. Draft files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Get started. Draft files." />
+    <MESSAGE value="Adding class Divulgacao." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding class Divulgacao." />
   </component>
 </project>
