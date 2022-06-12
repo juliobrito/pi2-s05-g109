@@ -1,0 +1,23 @@
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  ___   ___   ___         _   _          _
+ | _ \ |_ _| |_  )  ___  | | | |  _ _   (_) __ __  ___   ___  _ __ 
+ |  _/  | |   / /  |___| | |_| | | ' \  | | \ V / / -_) (_-< | '_ \
+ |_|   |___| /___|        \___/  |_||_| |_|  \_/  \___| /__/ | .__/
+                                                             |_|   
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+
+AdotaPet
+- - - - - - - - - - - - - - - - -
+PI2-S05-G109
+
+JULIA ARAÚJO PAIVA
+JULIANO BRAZ DE MELO
+JUAN CARDOSO MIRANDA DE OLIVEIRA
+JULIO CESAR DE OLIVEIRA BRITO
+JULIENE DE OLIVEIRA FLORA
+JULIA GRAZIELA BARBOSA RAMOS
+JULIANO JOSÉ MARINHO
+JULIANO RYBAK GODINHO
+- - - - - - - - - - - - - - - - -

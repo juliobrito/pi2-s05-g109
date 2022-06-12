@@ -1,12 +1,12 @@
-package draft;
+package adotapet.pi2.univesp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Draft {
+public class AdotaPet {
 
-    public static void main(String[] args) { SpringApplication.run(Draft.class, args);
+    public static void main(String[] args) {
+        SpringApplication.run(AdotaPet.class, args);
     }
-
 }
