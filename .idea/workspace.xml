@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="API de cachorro e gato">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/components/AddCachorro.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/components/Cachorro.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/components/CachorroList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/http-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/services/CachorroDataService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/vue.config.js" afterDir="false" />
+    <list default="true" id="d68c648b-0935-4e44-8654-a7a157485b2e" name="Changes" comment="Install node.js, yarn , vue 3 and add new app adotapet">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/adotapet/src/components/AddCachorro.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/adotapet/src/components/Cachorro.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/adotapet/src/components/CachorroList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vuejs/adotapet/src/services/CachorroDataService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vuejs/components/ProductDisplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vuejs/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vuejs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vuejs/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +157,7 @@
       <workItem from="1655915958568" duration="16471000" />
       <workItem from="1656077010700" duration="1241000" />
       <workItem from="1656086584001" duration="3414000" />
-      <workItem from="1656207882271" duration="1736000" />
+      <workItem from="1656207882271" duration="2404000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit. Open Project.">
       <created>1652363880789</created>
@@ -231,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656086679795</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Install node.js, yarn , vue 3 and add new app adotapet">
+      <created>1656210373097</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656210373097</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +253,7 @@
     <MESSAGE value="Adding class Divulgacao." />
     <MESSAGE value="Restart app" />
     <MESSAGE value="API de cachorro e gato" />
-    <option name="LAST_COMMIT_MESSAGE" value="API de cachorro e gato" />
+    <MESSAGE value="Install node.js, yarn , vue 3 and add new app adotapet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install node.js, yarn , vue 3 and add new app adotapet" />
   </component>
 </project>
